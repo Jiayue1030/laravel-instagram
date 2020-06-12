@@ -1,4 +1,6 @@
 Simple Laravel Desktop Version Instagram
+
+
 User can register, login, edit profile, edit profile image, follow and unfollow users, view posts
 
 Profile View
